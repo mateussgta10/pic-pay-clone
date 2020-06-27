@@ -1,8 +1,10 @@
 # PicPay Clone
-## Feito com as aulas do Mateus Silva https://www.youtube.com/watch?v=fiuWVbnBIpo
+<h5> Feito com as aulas do Mateus Silva https://www.youtube.com/watch?v=fiuWVbnBIpo </h5>
 
-## Styled Components
-<p>Fiz mais algumas tela</p>
+
+- **`*`**: React Native
+- **`*`**: Styled-Components
+
 
 <div style="display:flex">
 <img src="imageRedme/Screenshot_20200619-173046039.jpg" style="margin-right:3px" width="400px">
@@ -20,3 +22,4 @@
 
 
 
+Feito com 💜 by Mateus Santana
